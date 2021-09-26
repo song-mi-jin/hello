@@ -1,1 +1,4 @@
-pu;;
+git init : 저장소 생성
+
+
+git status : 버전 관리 할 파일 확인
