@@ -2,3 +2,12 @@ git init : 저장소 생성
 
 
 git status : 버전 관리 할 파일 확인
+
+
+git add 파일명 : 스테이지에 추가  -A(모든파일)
+
+
+git commit -m '커밋명'
+
+
+git push -u origin main : 원격저장소에 올리기
